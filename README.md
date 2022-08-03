@@ -1,4 +1,4 @@
-## Hi there 👋
+## 𝖧𝗂 𝗍𝗁𝖾𝗋𝖾 👋
 
 I am Adam, currently a computer engineering student, will graduate in February 2023 with the title of engineer from
 [The University of Rzeszów](https://ur.edu.pl/en). I also work at Comarch S.A. as Junior Java Developer, developing ERP 
@@ -6,9 +6,9 @@ systems.
 <br />
 
 
-## Technologies & Tools I got to know and use / used in my projects 💻
+## 𝖳𝖾𝖼𝗁𝗇𝗈𝗅𝗈𝗀𝗂𝖾𝗌 & 𝖳𝗈𝗈𝗅𝗌 𝖨 𝗀𝗈𝗍 𝗍𝗈 𝗄𝗇𝗈𝗐 𝖺𝗇𝖽 𝗎𝗌𝖾 / 𝗎𝗌𝖾𝖽 𝗂𝗇 𝗆𝗒 𝗉𝗋𝗈𝗃𝖾𝖼𝗍𝗌 💻
 
-Backend:
+𝖡𝖺𝖼𝗄𝖾𝗇𝖽:
 <br />
 ![Java](https://img.shields.io/badge/Java-8+-black?style=flat-square&logo=coffeescript)
 ![Maven](https://img.shields.io/badge/Maven-black?style=flat-square&logo=apachemaven)
@@ -23,7 +23,7 @@ Backend:
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)
 ![JUnit5](https://img.shields.io/badge/JUnit5-black?style=flat-square&logo=junit5)
 
-Frontend:
+𝖥𝗋𝗈𝗇𝗍𝖾𝗇𝖽:
 <br />
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3)
