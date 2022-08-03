@@ -1,5 +1,4 @@
 ## Hi there 👋
-<hr />
 
 I am Adam, currently a computer engineering student, will graduate in February 2023 with the title of engineer from
 [The University of Rzeszów](https://ur.edu.pl/en). I also work at Comarch S.A. as Junior Java Developer, developing ERP 
@@ -8,7 +7,6 @@ systems.
 
 
 ## Technologies & Tools I got to know and use / used in my projects 💻
-<hr />
 
 Backend:
 <br />
@@ -59,7 +57,6 @@ Languages:
 
 
 ## Things I'm currently learning in my spare time 🤗
-<hr />
 
 ![SpringCloud](https://img.shields.io/badge/Spring_Cloud-Microservices-black?style=flat-square&logo=spring)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
@@ -67,7 +64,6 @@ Languages:
 ![RxJS](https://img.shields.io/badge/RxJS-black?style=flat-square&logo=reactivex)
 
 ## Current projects
-<hr />
 
 I'm currently working on my engineering project - [Tournabay](https://tournabay.com/), a web application for tournament management.
 
@@ -81,7 +77,6 @@ I'm currently working on my engineering project - [Tournabay](https://tournabay.
 <br />
 
 ## How to reach me ❓
-<hr />
 
 If you want to contact me in any matter, you can do so via:
 
