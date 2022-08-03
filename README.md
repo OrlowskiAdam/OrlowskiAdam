@@ -67,10 +67,10 @@ Languages:
 
 I'm currently working on my engineering project - [Tournabay](https://tournabay.com/), a web application for tournament management.
 
-<a href="https://github.com/Tournabay/Tournabay">
+<a href="https://github.com/Tournabay/Tournabay" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tournabay&repo=Tournabay&theme=buefy" />
 </a>
-<a href="https://github.com/Tournabay/TournabayAPI">
+<a href="https://github.com/Tournabay/TournabayAPI" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tournabay&repo=TournabayAPI&theme=buefy" />
 </a>
 
