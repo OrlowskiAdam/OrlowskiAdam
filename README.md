@@ -8,7 +8,7 @@ systems.
 
 ## 𝖳𝖾𝖼𝗁𝗇𝗈𝗅𝗈𝗀𝗂𝖾𝗌 & 𝖳𝗈𝗈𝗅𝗌 𝖨 𝗀𝗈𝗍 𝗍𝗈 𝗄𝗇𝗈𝗐 𝖺𝗇𝖽 𝗎𝗌𝖾 / 𝗎𝗌𝖾𝖽 𝗂𝗇 𝗆𝗒 𝗉𝗋𝗈𝗃𝖾𝖼𝗍𝗌 💻
 
-𝖡𝖺𝖼𝗄𝖾𝗇𝖽:
+Backend:
 <br />
 ![Java](https://img.shields.io/badge/Java-8+-black?style=flat-square&logo=coffeescript)
 ![Maven](https://img.shields.io/badge/Maven-black?style=flat-square&logo=apachemaven)
@@ -23,7 +23,7 @@ systems.
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)
 ![JUnit5](https://img.shields.io/badge/JUnit5-black?style=flat-square&logo=junit5)
 
-𝖥𝗋𝗈𝗇𝗍𝖾𝗇𝖽:
+Frontend:
 <br />
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3)
@@ -56,14 +56,14 @@ Languages:
 ![English](https://img.shields.io/badge/English-B2-green?style=flat-square)
 
 
-## Things I'm currently learning in my spare time 🤗
+## 𝖳𝗁𝗂𝗇𝗀𝗌 𝖨'𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 𝗂𝗇 𝗆𝗒 𝗌𝗉𝖺𝗋𝖾 𝗍𝗂𝗆𝖾 🤗
 
 ![SpringCloud](https://img.shields.io/badge/Spring_Cloud-Microservices-black?style=flat-square&logo=spring)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
 ![Angular](https://img.shields.io/badge/Angular-black?style=flat-square&logo=angular)
 ![RxJS](https://img.shields.io/badge/RxJS-black?style=flat-square&logo=reactivex)
 
-## Current projects
+## 𝖢𝗎𝗋𝗋𝖾𝗇𝗍 𝗉𝗋𝗈𝗃𝖾𝖼𝗍𝗌
 
 I'm currently working on my engineering project - [Tournabay](https://tournabay.com/), a web application for tournament management.
 
@@ -76,7 +76,7 @@ I'm currently working on my engineering project - [Tournabay](https://tournabay.
 
 <br />
 
-## How to reach me ❓
+## 𝖧𝗈𝗐 𝗍𝗈 𝗋𝖾𝖺𝖼𝗁 𝗆𝖾 ❓
 
 If you want to contact me in any matter, you can do so via:
 
