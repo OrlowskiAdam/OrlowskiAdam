@@ -87,4 +87,4 @@ I'm currently working on a web application for tournament management named [AimC
 
 If you want to contact me in any matter, you can do so via:
 - Email: orlowski.adam.99@gmail.com
-- LinkedIn: https://www.linkedin.com/in/adam-orłowskiowski/
+- LinkedIn: https://www.linkedin.com/in/adam-orłowski/
