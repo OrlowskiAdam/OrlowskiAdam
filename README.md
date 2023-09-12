@@ -86,6 +86,5 @@ I'm currently working on a web application for tournament management named [AimC
 ## 𝖧𝗈𝗐 𝗍𝗈 𝗋𝖾𝖺𝖼𝗁 𝗆𝖾 ❓
 
 If you want to contact me in any matter, you can do so via:
-
-[![Gmail](https://img.shields.io/badge/Gmail-orlowski.adam.99@gmail.com-black?style=flat-square&logo=gmail)](mailto:orlowski.adam.99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam_Orłowski-black?style=flat-square&logo=linkedIn)](https://www.linkedin.com/in/adam-orłowskiowski/)
+- Email: orlowski.adam.99@gmail.com
+- LinkedIn: https://www.linkedin.com/in/adam-orłowskiowski/
