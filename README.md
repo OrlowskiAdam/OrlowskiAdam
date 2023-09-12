@@ -72,8 +72,7 @@ I'm currently working on a web application for tournament management named [AimC
 - OpenAPI 3
 - Lombok
 - Mapstruct
-- JUnit, Mockito
-- Testcontainers
+- JUnit, Mockito, Testcontainers
 - PostgreSQL
 
 - React.js
