@@ -65,7 +65,22 @@ Languages:
 
 ## 𝖢𝗎𝗋𝗋𝖾𝗇𝗍 𝗉𝗋𝗈𝗃𝖾𝖼𝗍𝗌
 
-I'm currently working on a web application for tournament management named [AimCup](https://github.com/AimCup).
+I'm currently working on a web application for tournament management named [AimCup](https://github.com/AimCup) which uses:
+- Spring Boot 3, Spring Cloud, Spring Data JPA, Spring Security, Eureka, API Gateway
+- OAuth2
+- Flyway
+- OpenAPI 3
+- Lombok
+- Mapstruct
+- JUnit, Mockito
+- Testcontainers
+- PostgreSQL
+
+- React.js
+- Next.js
+- Cypress
+
+- CI/CD for deployment on Raspberry PI 4
 
 <br />
 
