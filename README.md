@@ -65,14 +65,7 @@ Languages:
 
 ## 𝖢𝗎𝗋𝗋𝖾𝗇𝗍 𝗉𝗋𝗈𝗃𝖾𝖼𝗍𝗌
 
-I'm currently working on my engineering project - [Tournabay](https://tournabay.com/), a web application for tournament management.
-
-<a href="https://github.com/Tournabay/Tournabay" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tournabay&repo=Tournabay&theme=buefy" />
-</a>
-<a href="https://github.com/Tournabay/TournabayAPI" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tournabay&repo=TournabayAPI&theme=buefy" />
-</a>
+I'm currently working on a web application for tournament management named [AimCup](https://github.com/AimCup).
 
 <br />
 
@@ -81,4 +74,4 @@ I'm currently working on my engineering project - [Tournabay](https://tournabay.
 If you want to contact me in any matter, you can do so via:
 
 [![Gmail](https://img.shields.io/badge/Gmail-orlowski.adam.99@gmail.com-black?style=flat-square&logo=gmail)](mailto:orlowski.adam.99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam_Orłowski-black?style=flat-square&logo=linkedIn)](https://www.linkedin.com/in/adam-or%C5%82owski-37957718b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam_Orłowski-black?style=flat-square&logo=linkedIn)]([https://www.linkedin.com/in/adam-orłowski/](https://www.linkedin.com/in/adam-orłowskiowski/))
