@@ -1,8 +1,8 @@
 ## 𝖧𝗂 𝗍𝗁𝖾𝗋𝖾 👋
 
 I am Adam, currently a computer engineering student, will graduate in February 2023 with the title of engineer from
-[The University of Rzeszów](https://ur.edu.pl/en). I also work at Comarch S.A. as Junior Java Developer, developing ERP 
-systems.
+[The University of Rzeszów](https://ur.edu.pl/en). I also work at Altkom Software & Consulting as Mid Java Developer, developing ERP 
+systems based on Camunda 8.
 <br />
 
 
